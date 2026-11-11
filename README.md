@@ -71,7 +71,7 @@ Productivity & Collaboration
 
 Here are some of the projects I have worked on:
 
-1. NaijaStock Distributors Ltd – Sales & Distribution Performance Dashboard: An interactive Power BI project analyzing revenue, profit, product performance, warehouse operations, and supplier performance.
+1. NaijaStock Distributors Ltd – Sales & Distribution Performance Dashboard: An interactive Power BI project analyzing revenue, profit, product performance, warehouse operations, and supplier performance. https://github.com/Munachichi/NaijaStock-Distributors-Ltd-Sales-Distribution-Performance-Analysis
 
 2. Malaria Incidence Dashboard: A Power BI project exploring malaria cases, deaths, incidence rates, and geographical distribution across Nigerian states and geopolitical zones.
 ETC.
