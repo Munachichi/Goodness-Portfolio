@@ -83,7 +83,7 @@ ETC.
 - Exploring more ways to use data analytics to solve real-world business problems.
 
 ## Let's Connect!
-
+[https://www.linkedin.com/in/goodness-adike ]
 I'm open to opportunities, collaborations, internships, and entry-level roles in Data Analytics and Business Intelligence.
 
 Let's connect, learn, collaborate, and turn data into actionable insights!
