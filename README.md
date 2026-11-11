@@ -1,5 +1,4 @@
-# Nachimso-Portfolio
-# Hi, I'm Goodness Chioma 👋
+# Hi, I'm Goodness Chioma 
 
 ## Data Analyst | Business Intelligence | Data Visualization
 
